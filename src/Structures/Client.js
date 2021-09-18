@@ -10,7 +10,7 @@ const Event = require("./Event.js");
 
 const config = require("../Data/config.json");
 
-const intents = new Discord.Intents(32767);
+const intents = new Discord.Intents(3847);
 
 const fs = require("fs");
 
