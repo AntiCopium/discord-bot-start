@@ -1,4 +1,5 @@
-# girov2
+# Bot 101
+
 Discord bot
 
 
