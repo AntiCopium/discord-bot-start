@@ -9,6 +9,7 @@ What things you need to install the software and how to install them
 
 ```
 Node.js
+Visual Studio Code (at the bottom)
 ```
 ### Installing
 
